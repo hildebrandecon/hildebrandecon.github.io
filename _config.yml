@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Sebastian Hildebrand"
+title                    : "hildebrandecon.github.io"
 title_separator          : "-"
 name                     : &name "Sebastian Hildebrand"
 description              : &description "PhD student at Bonn Graduate School of Economics"
