@@ -24,17 +24,14 @@ Contact details
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-73oq">Email</th>
-    <th class="tg-73oq">sebastian.hildebrand[ät]uni-bonn[döt]de</th>
-  </tr>
-</thead>
 <tbody>
+  <tr>
+    <td class="tg-73oq">Email</td>
+    <td class="tg-73oq">sebastian.hildebrand[ät]uni-bonn[döt]de</td>
+  </tr>
   <tr>
     <td class="tg-73oq">Address</td>
     <td class="tg-73oq">Bonn Graduate School of Economics<br>Kaiserstr. 1<br>53113 Bonn<br>Germany</td>
   </tr>
 </tbody>
 </table>
-
