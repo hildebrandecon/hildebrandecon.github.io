@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am a PhD student at the Bonn Graduate School of Economics, University of Bonn since October 2020. My main research interests are **macroeconomics**, **monetary theory**, and **inquality**. I'm also interested in international macroeconomics and practical monetary poliy.
 
-Before joining the [BGSE](https://www.bgse.uni-bonn.de/en), I studied *Economics and Social Sciences* at the [University of Erfurt](https://www.uni-erfurt.de/staatswissenschaftliche-fakultaet) and *Money and Finance* at the [University of Frankfurt](https://www.wiwi.uni-frankfurt.de/de/abteilungen/ei/mmf.html). During my master I joined the Deutsche Bundesbank for a research internship in the monetary macroeconomics group, where I mainly worked on a novel DSGE model to analyse the effectiveness of forward guidance at the effective lower bound.
+Before joining the [BGSE](https://www.bgse.uni-bonn.de/en), I studied *Economics and Social Sciences* at the [University of Erfurt](https://www.uni-erfurt.de/staatswissenschaftliche-fakultaet) and *Money and Finance* at the [University of Frankfurt](https://www.wiwi.uni-frankfurt.de/de/abteilungen/ei/mmf.html). 
+
 
 A data-driven personal website
 ======
