@@ -27,7 +27,7 @@ Work experience
 * 2017-2018: Intern and Working Student at Deloitte
   * Financial Risk Advisory
 
-* 2016: Research Assistent at University of Erfurt
+* 2016: Research Assistant at University of Erfurt
   * Chair of Macroeconomics
   * Chair of Quantitative Methods
   * Chair of Political Theory
