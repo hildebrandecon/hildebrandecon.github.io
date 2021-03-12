@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **PhD student** at the [Bonn Graduate School of Economics](https://www.bgse.uni-bonn.de/en), University of Bonn.
+I am a **PhD student** at the Bonn Graduate School of Economics, University of Bonn since October 2020. My main research interests are 
+1. computational macroeconomics,
+1. monetary policy, and
+1. inquality.
 
 A data-driven personal website
 ======
