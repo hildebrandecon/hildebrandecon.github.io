@@ -15,12 +15,19 @@ Before joining the BGSE, I studied *Economics and Social Sciences* at the [Unive
 
 Contact details
 ------
-Email: &#9; &#9; &#9; &#9; sebastian.hildebrand\[ät\]uni-bonn\[döt\]de   
+Email: 
 
-Address:  Bonn Graduate School of Economics
-            Kaiserstr. 1   
-            53113 Bonn
-            Germany       
+sebastian.hildebrand\[ät\]uni-bonn\[döt\]de   
+
+Address:  
+
+Bonn Graduate School of Economics
+
+Kaiserstr. 1   
+
+53113 Bonn
+
+Germany       
 
 
 
