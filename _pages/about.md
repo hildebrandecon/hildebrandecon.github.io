@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the Bonn Graduate School of Economics ([BGSE](https://www.bgse.uni-bonn.de/en)), University of Bonn since October 2020. 
+I am a PhD student at the Bonn Graduate School of Economics ([BGSE](https://www.bgse.uni-bonn.de/en)), University of Bonn.
 
 My main research interests are **macroeconomics**, **monetary theory**, and **inequality**. I'm also interested in international macroeconomics and practical monetary poliy considerations.
 
