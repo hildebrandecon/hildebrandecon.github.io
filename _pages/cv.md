@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * MSc in Money and Finance, University of Frankfurt, 2020
   * Exchange to LUISS University Rome, 2018
 * BA in Economics and Social Sciences, University of Erfurt, 2017
   * Exchange to Cracow University of Economics, 2016
 
 Work experience
-======
+------
 * 2019-2020: Traineeship at European Central Bank
   * Directorate General International & European Relations
 
@@ -25,7 +25,7 @@ Work experience
   * Directorate General Economics
 
 Publications
-======
+------
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
