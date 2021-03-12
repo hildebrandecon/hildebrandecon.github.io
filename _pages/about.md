@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the Bonn Graduate School of Economics, University of Bonn since October 2020. My main research interests are **macroeconomics**, **monetary theory**, and **inquality**. I'm also interested in international macroeconomics and practical monetary poliy considerations.
+I am a PhD student at the Bonn Graduate School of Economics (BGSE), University of Bonn since October 2020. My main research interests are **macroeconomics**, **monetary theory**, and **inequality**. I'm also interested in international macroeconomics and practical monetary poliy considerations.
 
-Before joining the [BGSE](https://www.bgse.uni-bonn.de/en), I studied *Economics and Social Sciences* at the [University of Erfurt](https://www.uni-erfurt.de/staatswissenschaftliche-fakultaet) and *Money and Finance* at the [University of Frankfurt](https://www.wiwi.uni-frankfurt.de/de/abteilungen/ei/mmf.html) and spent two exchange semesters in Cracow and Rome.
+Before joining the [BGSE](https://www.bgse.uni-bonn.de/en), I studied *Economics and Social Sciences* at the [University of Erfurt](https://www.uni-erfurt.de/staatswissenschaftliche-fakultaet) and *Money and Finance* at the [University of Frankfurt](https://www.wiwi.uni-frankfurt.de/de/abteilungen/ei/mmf.html) and spent two exchange semesters in Cracow and Rome. Furthermore, I have gained research and policy experiences at the European Central Bank and the Deutsche Bundesbank. Apart from that, I worked for roughly one year in the private sector at Deloitte.
 
 Contact details
 ------
-* email: sebastian.hildebrand\[ät\]uni-bonn.de
+* email: sebastian.hildebrand\[ät\]uni-bonn\[döt\]de
 * BGSE website: [link](https://www.bgse.uni-bonn.de/en/people/student-directory/2020/sebastian-hildebrand)
