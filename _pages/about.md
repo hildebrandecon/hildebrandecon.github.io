@@ -14,6 +14,7 @@ Before joining the [BGSE](https://www.bgse.uni-bonn.de/en), I studied *Economics
 Contact details
 ------
 * email: sebastian.hildebrand\[ät\]uni-bonn.de
+* BGSE website: [link](https://www.bgse.uni-bonn.de/en/people/student-directory/2020/sebastian-hildebrand)
 
 
 A data-driven personal website
