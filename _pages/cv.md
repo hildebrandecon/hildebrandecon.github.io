@@ -24,6 +24,14 @@ Work experience
 * 2019: Research Internship at Deutsche Bundesbank
   * Directorate General Economics
 
+* 2017-2018: Intern and Working Student at Deloitte
+  * Financial Risk Advisory
+
+* 2016: Research Assistent at University of Erfurt
+  * Chair of Macroeconomics
+  * Chair of Quantitative Methods
+  * Chair of Political Theory
+
 Publications
 ------
   <ul>{% for post in site.research %}
