@@ -30,6 +30,10 @@ Contact details
     <td class="tg-73oq">sebastian.hildebrand[ät]uni-bonn[döt]de</td>
   </tr>
   <tr>
+    <td class="tg-73oq">Other websites</td>
+    <td class="tg-73oq">[BGSE](https://www.bgse.uni-bonn.de/en/people/student-directory/2020/sebastian-hildebrand)</td>
+  </tr>
+  <tr>
     <td class="tg-73oq">Address</td>
     <td class="tg-73oq">Sebastian Hildebrand<br>c/o Bonn Graduate School of Economics<br>Kaiserstr. 1<br>53113 Bonn<br>Germany</td>
   </tr>
