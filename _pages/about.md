@@ -31,7 +31,7 @@ Contact details
   </tr>
   <tr>
     <td class="tg-73oq">Other websites</td>
-    <td class="tg-73oq">[BGSE](https://www.bgse.uni-bonn.de/en/people/student-directory/2020/sebastian-hildebrand)</td>
+    <td class="tg-73oq"> <a href="https://www.bgse.uni-bonn.de/en/people/student-directory/2020/sebastian-hildebrand">BGSE</a> </td>
   </tr>
   <tr>
     <td class="tg-73oq">Address</td>
