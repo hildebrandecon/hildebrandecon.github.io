@@ -17,9 +17,9 @@ Contact details
 ------
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+.tg td{border-style:solid;border-width:0px;;overflow:hidden;
   padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+.tg th{border-style:solid;border-width:0px;;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
