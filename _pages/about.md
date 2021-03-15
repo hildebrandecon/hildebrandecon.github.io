@@ -31,7 +31,7 @@ Contact details
   </tr>
   <tr>
     <td class="tg-73oq">Address</td>
-    <td class="tg-73oq">Bonn Graduate School of Economics<br>Kaiserstr. 1<br>53113 Bonn<br>Germany</td>
+    <td class="tg-73oq">Sebastian Hildebrand<br>c/o Bonn Graduate School of Economics<br>Kaiserstr. 1<br>53113 Bonn<br>Germany</td>
   </tr>
 </tbody>
 </table>
