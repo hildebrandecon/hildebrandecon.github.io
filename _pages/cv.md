@@ -18,7 +18,7 @@ Education
   * Term paper: Monetary Policy Design in the Basic New Keynesian Model
 * BA in Economics and Social Sciences, University of Erfurt, 2017
   * Exchange to Cracow University of Economics, 2016
-  * Focus on conometrics/statistics, macroeconomics and political theory
+  * Focus on econometrics/statistics, macroeconomics and political theory
   * Thesis: Modelling Volatility in Financial Markets - Analysis of the DAX
   * Term Paper: Unconventional Monetary Policy and the CB’s Balance Sheet
 
